@@ -76,7 +76,7 @@
                             <outlet property="delegate" destination="s0D-z4-OtI" id="a8T-7T-YpB"/>
                         </connections>
                     </tableView>
-                    <navigationItem key="navigationItem" title="Root View Controller" id="YU1-Wc-VXu"/>
+                    <navigationItem key="navigationItem" title="Root View Controller" id="YU1-Wc-VXu" userLabel="Imgur"/>
                     <connections>
                         <outlet property="uiTableView" destination="4nv-Gc-r8F" id="TZz-dJ-uOA"/>
                         <segue destination="7aI-r5-aNl" kind="show" identifier="postDetailSegue" id="2dU-B1-cxR"/>
