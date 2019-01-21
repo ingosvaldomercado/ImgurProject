@@ -1,6 +1,17 @@
 
-## ImgurProject
+# ImgurProject
 This is a DEMO iOS app that connect to the Imgur Api https://api.imgur.com/
+
+
+## Description
+
+Search image's post on Imgur Api and check the description and details about it.
+
+Features:
+* Search images list
+* Post detail view
+* Unit Testing with XCTest
+
 
 ## Installation
 Install Carthage
@@ -10,15 +21,6 @@ https://github.com/Carthage/Carthage
 ## Run Carthage
 carthage bootstrap --platform iOS --no-use-binaries
 
-
-# Description
-
-Search image's post on Imgur Api and check the description and details about it.
-
-Features:
-* Search images list
-* Post detail view
-* Unit Testing with XCTest
 
 ## Protocol Oriented Programming
 
