@@ -20,9 +20,9 @@ Features:
 * Post detail view
 * Unit Testing with XCTest
 
-## PPO
+## Protocol Oriented Programming
 
-PPO is implemented in this DEMO, the protocols define the business logic:
+POP is implemented in this DEMO, the protocols define the business logic:
 
 ```swift
 // Protocol sample
